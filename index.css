@@ -41,7 +41,7 @@ html,body {
   margin-top: 22px;
   margin-left: 31%;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 20px;
   color: white;
 }
 @media screen and (max-width: 1000px) {
@@ -69,7 +69,7 @@ html,body {
   margin-top: 22px;
   margin-left: 4%;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 20px;
   color: white;
 }
 .name {
